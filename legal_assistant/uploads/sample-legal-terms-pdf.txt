@@ -1,0 +1,21 @@
+# Sample Legal Terms and Definitions
+
+1. Tort: A civil wrong that causes harm or loss to another party, resulting in legal liability.
+
+2. Statute of Limitations: A law that sets the maximum time after an event within which legal proceedings may be initiated.
+
+3. Negligence: Failure to exercise the care that a reasonably prudent person would exercise in similar circumstances.
+
+4. Precedent: A principle or rule established in a previous legal case that is either binding on or persuasive for a court when deciding subsequent cases with similar issues or facts.
+
+5. Habeas Corpus: A writ requiring a person under arrest to be brought before a judge or into court, especially to secure the person's release unless lawful grounds are shown for their detention.
+
+6. Voir Dire: The preliminary examination of prospective jurors to determine their qualifications and suitability to serve on a jury.
+
+7. Mens Rea: The mental element of a person's intention to commit a crime; or knowledge that one's action or lack of action would cause a crime to be committed.
+
+8. Actus Reus: The physical element of a crime; the actual commission of a crime.
+
+9. Res Ipsa Loquitur: A doctrine in tort law that infers negligence from the very nature of an accident or injury, in the absence of direct evidence on how any defendant behaved.
+
+10. Stare Decisis: The legal principle of determining points in litigation according to precedent.
