@@ -13,8 +13,8 @@ This is a Flask-based AI Legal Chatbot that uses the Gemini API to provide legal
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ai-legal-chatbot.git
-   cd ai-legal-chatbot
+   git clone https://https://github.com/nitin-handa/legal_assistant.git
+   cd legal_assistant
    ```
 
 2. Create a virtual environment and activate it:
