@@ -6,6 +6,7 @@ This is a Flask-based AI Legal Chatbot that uses the Gemini API to provide legal
 
 - Document upload and processing (PDF, DOCX, TXT)
 - AI-powered legal responses using Gemini API
+- Context Memory
 - Chat history management
 - Simple web interface
 
